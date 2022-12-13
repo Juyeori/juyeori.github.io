@@ -1,0 +1,18 @@
+---
+title: 0일차
+layout: post
+post-image: "https://velog.velcdn.com/images/mouse0429/post/19b9158e-731a-4e60-ab43-efcdafd9244e/%EA%B9%83%ED%97%88%EB%B8%8C.png"
+description: 0일차 - 블로그 생성 및 후기
+categories: [Blog]
+tags:
+- github
+- blog
+---
+어떤 블로그를 사용할까 고민하다가, 결국 개발자답게 github를 통한 블로그를 하고자 했으나, 꽤 오랜 시간 동안 헤매다가 겨우겨우 생성하게 되었다.
+덕분에 git과 조금 친해지긴 했으나...
+
+내일부터 몇일간은 저번 학기에 공부했던 운영체제, 자료구조 등에 대한 시험 기간 요약본을 포스팅 할 계획이다.
+
+첫 날이니까 짧게 마무리 ㅎㅎ
+
+---
