@@ -14,6 +14,7 @@ chirpy 테마에 한정하여, sidebar 커스터마이징 방법을 소개하겠
 1. _sass/addon/commons.scss 파일에 들어가서 `#sidebar`를 찾는다.
 1. `background: `를 아래와 같이 수정한다.
 > 저는 영롱한걸 좋아해서 우주로 했습니다!
+
 ```scss
 #sidebar {
   //...중략
@@ -26,6 +27,7 @@ chirpy 테마에 한정하여, sidebar 커스터마이징 방법을 소개하겠
   //...중략
 }
 ```
+
 > 배경에 이미지 삽입이 아니라 색깔만 바꾸고 싶다면 background: rgba(*,*,*,*) 이나 #ffffff 등, 원하는 색깔의 css 코드를 넣으면 됩니다.
 
 ### 2. sidebar title, subtitle 글자색 바꾸기
