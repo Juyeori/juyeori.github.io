@@ -1,8 +1,8 @@
 ---
 title: github 페이지 빌드 오류
 layout: post
-description: github error, ruby 버전 오류
-tags: github, github-page, ruby, 버전 오류
+description: github error, ruby 버전 오류, tainted?
+tags: github, github-page, ruby, 버전 오류, tainted?
 
 categories: [Blog]
 ---
