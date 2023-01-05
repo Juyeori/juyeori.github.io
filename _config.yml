@@ -81,8 +81,8 @@ theme_mode:   # [light|dark]
 img_cdn: #'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_18.jpg'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_18.jpg'
-
+avatar: '/assets/img/mimo.png'
+#'https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_18.jpg'
 # boolean type, the global switch for ToC in posts.
 toc: true
 
