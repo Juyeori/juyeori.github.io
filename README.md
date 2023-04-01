@@ -1,6 +1,7 @@
 <div align="center">
   
   ### 기술 블로그
+  https://juyeori.github.io
   
   #
   
